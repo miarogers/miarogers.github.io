@@ -3,13 +3,14 @@
 h1 {  color: rgb(255, 255, 255);
       font-size: 3em;
       background-color: rgb(69, 133, 124);
-      padding: 0em 0em 0em 8em; 
+      padding: 0em 0em 0em 7em; 
       text-tranform: uppercase;
       
     }
 
 h2 { color:rgb(69, 133, 124);
      font-size: 2em;
+     margin: 0em 0em 0em 7em;
      text-tranform: uppercase;
       
     }
