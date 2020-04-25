@@ -1,17 +1,27 @@
 /* CSS DOCUMENT */
 
 h1 {  color: rgb(255, 255, 255);
-      font-size: 5em;
+      font-size: 3em;
       background-color: rgb(69, 133, 124);
-      margin: 0em 5em 0em 5em; 
-      padding: 2em 2em 2em 2em; 
+      margin: 0em 3em 0em 3em; 
+      padding: 1em 1em 1em 1em; 
+      text-tranform: uppercase;
       
     }
 
 h2 { color:rgb (69, 133, 124);
-      font size: 3em;
+     font size: 3em;
+     text-tranform: uppercase;
+      
     }
 
 h3 {
       color: rgb (228, 140, 118);
       font size: 2em;
+      text-tranform: uppercase;
+      
+    }
+
+h4 { 
+      
+    }
