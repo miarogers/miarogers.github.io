@@ -1,12 +1,14 @@
 /* CSS DOCUMENT */
 
-h1 {  color:rgb (48, 86, 87);
-      font size: 4em;
-      margin: 2em 2em 2em 2em;
+h1 {  color: rgb(255, 255, 255);
+      font-size: 5em;
+      background-color: rgb(69, 133, 124);
+      margin: 
+      padding: 1em 1em 1em 1em; 
       
     }
 
-h2 { color:rgb (149, 191, 166);
+h2 { color:rgb (69, 133, 124);
       font size: 3em;
     }
 
