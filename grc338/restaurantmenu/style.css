@@ -11,14 +11,14 @@ h1 {  color: rgb(255, 255, 255);
 h2 { color:rgb(69, 133, 124);
      font-size: 2em;
      margin: 0em 0em 0em 7em;
-     text-tranform: uppercase;
+     text-transform: uppercase;
       
     }
 
 h3 {
       color: rgb(228, 140, 118);
       font-size: 1.5em;
-      text-tranform: uppercase;
+      text-transform: uppercase;
       
     }
 
