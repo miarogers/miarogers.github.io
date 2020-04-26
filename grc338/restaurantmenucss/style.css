@@ -1,5 +1,9 @@
 /* CSS DOCUMENT */
 
+body { background-color: rgb(255, 204, 204);
+      
+      }
+
 h1 {  color: rgb(255, 255, 255);
       font-size: 3em;
       padding: 0em 1em 0em 1em;
@@ -25,5 +29,6 @@ h3 {
     }
 
 h4 { color: rgb(228, 140, 118);
+      font-size: 1.2em;
       
     }
