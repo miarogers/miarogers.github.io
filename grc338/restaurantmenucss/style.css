@@ -1,0 +1,29 @@
+/* CSS DOCUMENT */
+
+h1 {  color: rgb(255, 255, 255);
+      font-size: 3em;
+      padding: 0em 1em 0em 1em;
+      background-color: rgb(69, 133, 124);
+      text-align: center;
+      text-transform: uppercase;
+      font-family: serif 
+      
+    }
+
+h2 { color:rgb(69, 133, 124);
+     font-size: 1.75em;
+     text-align: center;
+     text-transform: uppercase;
+      
+    }
+
+h3 {
+      color: rgb(149, 191, 166);
+      font-size: 1.3em;
+      text-transform: uppercase;
+      
+    }
+
+h4 { color: rgb(228, 140, 118);
+      
+    }
