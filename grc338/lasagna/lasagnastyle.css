@@ -1,0 +1,25 @@
+/*CSS DOCUMENT*/
+
+body { background-color: rgb(242, 234, 220);
+      
+      }
+img {
+width: 100%;}
+
+h1 {  color: rgb(189,58,38);
+      font-size: 3em;
+      text-align: center;
+      text-transform: uppercase;
+      font-family: serif 
+      
+}
+
+h2 { 
+    color: rgb(240,117,34)
+    font-size: 3em;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(122, 166, 76)
+}
