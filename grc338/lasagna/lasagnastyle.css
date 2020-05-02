@@ -1,25 +1,77 @@
 /*CSS DOCUMENT*/
 
-body { background-color: rgb(242, 234, 220);
-      
+body { 
+    background-color: rgb(240,117,34);
+
       }
 img {
 width: 100%;}
 
-h1 {  color: rgb(189,58,38);
-      font-size: 3em;
-      text-align: center;
-      text-transform: uppercase;
-      font-family: serif 
+h1 {color: rgb(189,58,38);
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 300;
       
 }
 
 h2 { 
-    color: rgb(240,117,34)
-    font-size: 3em;
     text-align: center;
+    color: rgb(240,117,34);
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+p {
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    
 }
 
 h3 {
+    font-family: futura-pt, sans-serif;
     color: rgb(122, 166, 76)
+}
+
+ul {
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+ol{
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+div.intro {
+    padding: 2em 10em 2em 10em;
+    overflow: hidden;
+}
+
+div.container {
+    background-color:rgb(255,255,255);
+    max-width: 80%;
+    margin: 2em auto;
+    padding: 1em ;
+}
+
+footer {
+    background-color: rgb(240,117,34);
+    color: rgb(255,255,255);
+    padding: em;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 2em;
+    letter-spacing: .02em;
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.5em;
+    
 }
