@@ -1,0 +1,54 @@
+/* CSS DOCUMENT */
+
+body { background-color: rgb(255, 255, 255);
+      
+      }
+
+h1 {  color: rgb(242, 192, 133);
+      font-size: 3em;
+      padding: 0em 1em 0em 1em;
+      text-align: center;
+      text-transform: uppercase;
+      font-family: serif 
+      
+    }
+
+h2 { color:rgb(242, 192, 133);
+     font-size: 1.75em;
+     text-align: center;
+     text-transform: uppercase;
+      
+    }
+
+h3 {
+      color: rgb(149, 191, 166);
+      font-size: 1.3em;
+      text-transform: uppercase;
+      
+    }
+
+h4 { color: rgb(228, 140, 118);
+      font-size: 1.2em;
+      
+    }
+
+img {
+width: 100%;
+margin: 5em
+}
+
+nav ul{
+    padding: none;
+}
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 3em;
+}
+
+nav ul li a {
+    
+text-decoration:none
+
+}
+
