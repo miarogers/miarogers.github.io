@@ -1,44 +1,48 @@
-/* CSS DOCUMENT */
-
 body { background-color: rgb(255, 255, 255);
       
       }
 
 h1 {  color: rgb(242, 192, 133);
       font-size: 3em;
-      padding: 0em 1em 0em 1em;
-      text-align: center;
-      text-transform: uppercase;
-      font-family: serif 
+      padding: none;
+        font-family: gautreaux, sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      
+    
+
       
     }
 
-h2 { color:rgb(242, 192, 133);
-     font-size: 1.75em;
-     text-align: center;
-     text-transform: uppercase;
+h2 {color:rgb(242, 192, 133);
+    font-size: 1.75em;
+    font-family: gautreaux, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding: 0em 1em 0em 1em;
       
     }
 
 h3 {
-      color: rgb(149, 191, 166);
-      font-size: 1.3em;
-      text-transform: uppercase;
+    color: rgb(149, 191, 166);
+    font-size: 1.3em;
+    font-family: montserrat, sans-serif;
       
     }
 
-h4 { color: rgb(228, 140, 118);
-      font-size: 1.2em;
-      
-    }
+p { font-family: montserrat, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+
+}
 
 img {
 width: 100%;
-margin: 5em
+margin-top: 1em;
 }
 
 nav ul{
-    padding: none;
+    padding-left: 6em;
 }
 nav ul li {
     list-style: none;
@@ -47,8 +51,11 @@ nav ul li {
 }
 
 nav ul li a {
+
+    text-decoration:none;
     
-text-decoration:none
+    
+    color: rgb(149, 191, 166);
 
 }
 
