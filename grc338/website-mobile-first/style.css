@@ -1,60 +1,57 @@
-body { background-color: rgb(255, 255, 255);
-      
-      }
+body { 
+      background-color: rgb(255, 255, 255);
+}
 
-h1 {  color: rgb(242, 192, 133);
+h1 {  
+      color: rgb(242, 192, 133);
       font-size: 3em;
       padding: none;
-        font-family: gautreaux, sans-serif;
-        font-weight: 500;
-        font-style: normal;
-      
-    }
+      font-family: gautreaux, sans-serif;
+      font-weight: 500;
+      font-style: normal;
+}
 
-h2 {color:rgb(242, 192, 133);
-    font-size: 1.75em;
-    font-family: gautreaux, sans-serif;
-    font-weight: 500;
-    font-style: normal;
-    padding: 0em 1em 0em 1em;
-      
-    }
+h2 {
+      color:rgb(242, 192, 133);
+      font-size: 1.75em;
+      font-family: gautreaux, sans-serif;
+      font-weight: 500;
+      font-style: normal;
+      padding: 0em 1em 0em 1em;
+}
 
 h3 {
-    color: rgb(149, 191, 166);
-    font-size: 1.3em;
-    font-family: montserrat, sans-serif;
-    font-style: normal;
-      
-    }
+      color: rgb(149, 191, 166);
+      font-size: 1.3em;
+      font-family: montserrat, sans-serif;
+      font-style: normal;
+}
 
-p { font-family: montserrat, sans-serif;
-    font-weight: 200;
-    font-style: normal;
-
+p {   
+      font-family: montserrat, sans-serif;
+      font-weight: 200;
+      font-style: normal;
 }
 
 img {
-width: 100%;
-margin-top: 1em;
+      width: 100%;
+      margin-top: 1em;
 }
 
-nav ul{
-    padding-left: 5em;
+     nav ul{
+      padding-left: 5em;
 }
+
 nav ul li {
-    list-style: none;
-    display: inline;
-    margin-right: 3em;
+      list-style: none;
+      display: inline;
+      margin-right: 3em;
 }
 
 nav ul li a {
-
-    text-decoration:none;
-    color: rgb(149, 191, 166);
-    font-family: montserrat, sans-serif;
-    font-weight: 200;
-    font-style: normal;
-
+      text-decoration:none;
+      color: rgb(149, 191, 166);
+      font-family: montserrat, sans-serif;
+      font-weight: 200;
+      font-style: normal;
 }
-
