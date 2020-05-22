@@ -1,0 +1,64 @@
+body { 
+      background-color: rgb(255, 255, 255);
+}
+
+h1 {  
+      color: rgb(242, 192, 133);
+      font-size: 3em;
+      padding: none;
+      font-family: gautreaux, sans-serif;
+      font-style: normal;
+      font-weight: 500;
+}
+
+h2 {
+      color:rgb(242, 192, 133);
+      font-size: 1.75em;
+      font-family: gautreaux, sans-serif;
+      font-style: normal;
+      font-weight: 500;
+}
+
+h3 {
+      color: rgb(149, 191, 166);
+      font-size: 1.3em;
+      font-family: montserrat, sans-serif;
+      font-style: normal;
+}
+
+p {   
+      font-family: montserrat, sans-serif;
+      font-weight: 200;
+      font-style: normal;
+      max-width: 35em
+}
+
+@media only screen and (min-width:25em){
+    p {
+        width: 45%;
+    }
+}
+
+img {
+      width: 100%;
+      margin-top: 1em;
+}
+
+
+nav ul li {
+      list-style: none;
+      display: inline;
+      margin-right: 1em;
+}
+
+nav ul li a {
+      text-decoration:none;
+      color: rgb(149, 191, 166);
+      font-family: montserrat, sans-serif;
+      font-weight: 200;
+      font-style: normal;
+}
+
+div.container{
+    text-align: center
+}
