@@ -30,6 +30,13 @@ p {
       font-family: montserrat, sans-serif;
       font-weight: 200;
       font-style: normal;
+      max-width: 35em
+}
+
+@media only screen and (min-width:25em){
+    p {
+        width: 45%;
+    }
 }
 
 img {
@@ -51,7 +58,7 @@ nav ul li a {
       font-weight: 200;
       font-style: normal;
 }
-div.container
-{
+
+div.container{
     text-align: center
 }
