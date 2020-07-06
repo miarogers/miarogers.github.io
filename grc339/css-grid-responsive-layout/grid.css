@@ -59,8 +59,8 @@ section a {
 
 
 section a figure {
-    grid-column: 2fr 1fr;
-    grid-row: 5em auto 3em;
+    grid-column: 2/3;
+    grid-row: 1/3;
 }
 
 section a h3 {
