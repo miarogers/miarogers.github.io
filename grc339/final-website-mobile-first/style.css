@@ -1,0 +1,93 @@
+/*CSS document*/
+
+body {
+    
+font-family: futura-pt, sans-serif;
+font-weight: 400;
+font-style: normal;
+background-color: rgb(255, 249, 240);
+
+}
+
+H2
+{
+color: rgb(176,107,66);
+}
+
+H3
+{
+  color: rgb(176,107,66);  
+}
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a{ 
+    text-decoration: none;
+    color:rgb(0,0,0)}
+
+.mainstory {
+    padding: 1em; 
+    margin-bottom: 1em;
+    background-color: rgb(244,237,228)
+}
+
+.fonttrends{
+    margin-bottom: 1em;
+    background-color: rgb(244,237,228)
+}
+
+.typographyspeaks{
+    margin-bottom: 1em;
+    background-color: rgb(244,237,228)}
+
+.handlettering{
+    margin-bottom: 1em;
+    background-color: rgb(244,237,228)}
+
+.broadway{
+    margin-bottom: 1em;
+    background-color: rgb(244,237,228)}
+}
+
+.eco{
+margin-bottom: 1em;
+background-color: rgb(244,237,228) 
+}
+
+.fashion{
+  margin-bottom: 1em;
+background-color: rgb(244,237,228)   
+}
+
+.story{
+margin-bottom: 1em;
+    background-color: rgb(244,237,228)}
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 1em;
+}
+
+nav ul li a {
+      text-decoration:none;
+      color: rgb(149, 191, 166);
+      font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
