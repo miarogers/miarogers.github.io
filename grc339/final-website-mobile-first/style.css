@@ -121,6 +121,7 @@ input:nth-of-type(7):checked~ main figure: nth-of-type(7),
 input:nth-of-type(8):checked~ main figure: nth-of-type(8), {
     
     left:0;
+    opacity:1;
 }
 
 
