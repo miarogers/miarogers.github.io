@@ -1,5 +1,3 @@
-/*CSS document*/
-
 body {
     
 font-family: futura-pt, sans-serif;
@@ -40,6 +38,12 @@ a{
     text-decoration: none;
     color:rgb(0,0,0)}
 
+.gallery {
+    padding: 1em; 
+    margin-bottom: 1em;
+    background-color: rgb(244,237,228)
+}
+
 .mainstory {
     padding: 1em; 
     margin-bottom: 1em;
@@ -62,7 +66,7 @@ a{
 .broadway{
     margin-bottom: 1em;
     background-color: rgb(244,237,228)}
-
+}
 
 .eco{
 margin-bottom: 1em;
@@ -80,13 +84,57 @@ margin-bottom: 1em;
 
 nav ul li {
     list-style: none;
+    margin-right: 1em;
     display: inline;
-    margin-right: 1.5em;
 }
 
 nav ul li a {
       text-decoration:none;
-      color: rgb(149, 191, 166);
+      color: rgb(176,107,66);
       font-family: futura-pt, sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+main.gallery{
+    position: relative;
+    overflow: hidden;
+    padding-bottom: calc(56% + 3em);
+}
+    
+figure.gallery {
+    margin: 0em 0em 1em 0em;
+    width: 100%;
+    position: absolute;
+    transition: left 0.5s, opacity 0.5s;
+    opacity: 0;
+    left:100%
+    }
+
+input:nth-of-type(1):checked~ main figure: nth-of-type(1),
+input:nth-of-type(2):checked~ main figure: nth-of-type(2),
+input:nth-of-type(3):checked~ main figure: nth-of-type(3),
+input:nth-of-type(4):checked~ main figure: nth-of-type(4),
+input:nth-of-type(5):checked~ main figure: nth-of-type(5),
+input:nth-of-type(6):checked~ main figure: nth-of-type(6),
+input:nth-of-type(7):checked~ main figure: nth-of-type(7),
+input:nth-of-type(8):checked~ main figure: nth-of-type(8),
+
+
+    
+nav.gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+label{
+    flex:1 0 8em;
+}
+
+input{
+    display:none;
+}
+
+    
+
+    
