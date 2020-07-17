@@ -135,6 +135,12 @@ input{
     display:none;
 }
 
-    
+ figcaption {
+    text-decoration:none;
+    color: rgb(176,107,66);
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}  
 
     
